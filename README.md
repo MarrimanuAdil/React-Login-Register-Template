@@ -26,13 +26,13 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-login-register-template.git
+   git clone https://github.com/MarrimanuAdil/React-Login-Register-Template.git
    ```
 
 2. Navigate into the project directory:
 
 	```bash
-	cd react-login-register-template
+	cd React-Login-Register-Template
 	```
 
 3. Install the project dependencies:
